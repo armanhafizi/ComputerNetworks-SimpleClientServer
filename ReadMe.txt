@@ -1,0 +1,1 @@
+Simple implementation of client server able to run CMD instructions and messaging using Socket Programming. Feel free to contact me for more information.
